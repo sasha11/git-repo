@@ -1,1 +1,1 @@
-print(«hello world»)jл
+print(«hello world»)jлрммл
